@@ -21,10 +21,10 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 - Reporting bugs
 - Creating bug reports
 - Creating documentation
-- experience testing web and application
-- performing smoke tests
-- testing UAT
-- scrum workflow
+- Experience testing web and application
+- Performing smoke tests
+- Testing UAT
+- Scrum workflow
 ### Soft skills 📁
 -  Exceptional Attention to Detail
 -  Collaborative Teamwork
