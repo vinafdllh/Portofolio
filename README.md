@@ -6,8 +6,8 @@ In this portfolio, I would like to share my knowledge of QA and showcase the pra
 ### My experience 🏢
 Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CODR) is my first professional position in the QA field. I have experienced significant growth in both my technical and soft skills, such as developing strong analytical thinking and gaining expertise in test case documentation. In addition, during my previous role as a QA intern at PT Pegadaian, one of my responsibilities was to oversee the proper functioning of the internal system and report any bugs or defects to the QA Lead. I have grown very fond of this role, which has further strengthened my interest in pursuing a career in QA.
 ### Tools 🔧
-- <ins>[JIRA(https://www.atlassian.com/)</ins>, <ins>Trello - project management
-- Sentry - bug tracking
+- <ins>[JIRA](https://www.atlassian.com/)</ins>, <ins>[Trello](https://trello.com/)</ins> - project management
+- <ins>[Sentry](https://sentry.echoteam.tech/)</ins> - bug tracking
 - Jam dev - for better capture and improving bug reports
 - test management - test case informations and documents about project
 - Google drive - storing data
