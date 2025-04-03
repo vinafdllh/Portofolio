@@ -6,9 +6,28 @@ In this portfolio, I would like to share my knowledge of QA and showcase the pra
 ### My experience 🏢
 Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CODR) is my first professional position in the QA field. I have experienced significant growth in both my technical and soft skills, such as developing strong analytical thinking and gaining expertise in test case documentation. In addition, during my previous role as a QA intern at PT Pegadaian, one of my responsibilities was to oversee the proper functioning of the internal system and report any bugs or defects to the QA Lead. I have grown very fond of this role, which has further strengthened my interest in pursuing a career in QA.
 ### Tools 🔧
-- <ins>[JIRA](https://www.atlassian.com/)</ins>, <ins>[Trello](https://trello.com/)</ins> - project management
-- <ins>[Sentry](https://sentry.echoteam.tech/)</ins> - bug tracking
-- <ins>[Jam Dev](https://jam.dev/)</ins> - for better capture and improving bug reports
-- <ins>[Test Management](https://testman.echoteam.tech/)</ins> - test case informations and documents about project
-- <ins>[Google Drive](https://workspace.google.com/)</ins> - storing data
-- <ins>[Google Chat](https://mail.google.com/chat/u/0/)</ins>, <ins>[Microsoft teams](https://www.microsoft.com/)</ins>, <ins>[Slack](https://slack.com/)</ins> - communication within the team
+- <ins>[JIRA](https://www.atlassian.com/)</ins>, <ins>[Trello](https://trello.com/)</ins> -Project management
+- <ins>[Sentry](https://sentry.echoteam.tech/)</ins> - Bug tracking
+- <ins>[Jam Dev](https://jam.dev/)</ins> - For better capture and improving bug reports
+- <ins>[Postman](https://www.postman.com/) - API testing
+- <ins>[Test Management](https://testman.echoteam.tech/)</ins> - Test case informations and documents about project
+- <ins>[Google Drive](https://workspace.google.com/)</ins> - Storing data
+- <ins>[Google Chat](https://mail.google.com/chat/u/0/)</ins>, <ins>[Microsoft teams](https://www.microsoft.com/)</ins>, <ins>[Slack](https://slack.com/)</ins> - Communication within the team
+### Tech skills 💻
+- Rest API testing
+- Basic knowledge about software development models (waterfall, agile)
+- Software testing
+- Creating test cases
+- Reporting bugs
+- Creating bug reports
+- Creating documentation
+- experience testing web and application
+- performing smoke tests
+- testing UAT
+- scrum workflow
+### Soft skills 📁
+-  Exceptional Attention to Detail
+-  Collaborative Teamwork
+-  Effective Time Management
+-  Responsible 
+-  Innovative Problem Solving
