@@ -31,3 +31,10 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 -  Effective Time Management
 -  Responsible 
 -  Innovative Problem Solving
+### Samples 🔬
+1. Balai Lelang - Caready
+- Test plan
+- Test cases
+- Bug report
+- Test report
+3. Mitra Solusi Lelang - (MSL)
