@@ -10,5 +10,5 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 - <ins>[Sentry](https://sentry.echoteam.tech/)</ins> - bug tracking
 - <ins>[Jam dev](https://jam.dev/)</ins> - for better capture and improving bug reports
 - <ins>[Test management](https://testman.echoteam.tech/)</ins> - test case informations and documents about project
-- <ins>[Google drive]</ins> - storing data
-- <ins>[Google chat]</ins>, <ins>[Microsoft teams]</ins>, <ins>[Slack]</ins> - communication within the team
+- <ins>[Google drive](https://workspace.google.com/)</ins> - storing data
+- <ins>[Google chat](https://mail.google.com/chat/u/0/)</ins>, <ins>[Microsoft teams](https://www.microsoft.com/)</ins>, <ins>[Slack](https://slack.com/)</ins> - communication within the team
