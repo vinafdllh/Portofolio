@@ -8,7 +8,7 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 ### Tools 🔧
 - <ins>[JIRA](https://www.atlassian.com/)</ins>, <ins>[Trello](https://trello.com/)</ins> - project management
 - <ins>[Sentry](https://sentry.echoteam.tech/)</ins> - bug tracking
-- Jam dev - for better capture and improving bug reports
-- test management - test case informations and documents about project
-- Google drive - storing data
-- Google chat, Microsoft teams - communication within the team
+- <ins>[Jam dev](https://jam.dev/)</ins> - for better capture and improving bug reports
+- <ins>[Test management](https://testman.echoteam.tech/)</ins> - test case informations and documents about project
+- <ins>[Google drive]</ins> - storing data
+- <ins>[Google chat]</ins>, <ins>[Microsoft teams]</ins>, <ins>[Slack]</ins> - communication within the team
