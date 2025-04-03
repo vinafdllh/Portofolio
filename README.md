@@ -2,6 +2,6 @@
 ### About Me 👋
 Hi, my name is Vina. Since the beginning of 2022, I have been studying and practicing to become a QA. I am happy to have finally found a field in which I can successfully grow. As an Information Systems graduate, I am highly motivated, organized, and detail-oriented, which enables me to deliver high-quality work. In a QA role, I see the potential to make the digital world more welcoming for everyone.
 In this portfolio, I would like to share my knowledge of QA and showcase the practical skills I have gained through courses, self-study, and my job. I am determined to continue growing in this field, and my main focus right now is on further expanding my knowledge and hands-on experience
-#### [My Linkedin Profile](https://www.linkedin.com/in/vina-fadillah-9299931a0/)
+#### [_My Linkedin Profile](https://www.linkedin.com/in/vina-fadillah-9299931a0/_)
 ### My experience 🏢
 Being a intern software quality assurance at PT Pegadaian is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test case document. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
