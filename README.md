@@ -32,9 +32,9 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 -  Responsible 
 -  Innovative Problem Solving
 ### Samples 🔬
-1. Balai Lelang - Caready
+#### 1. Balai Lelang - Caready
 - Test plan
 - Test cases
 - Bug report
 - Test report
-3. Mitra Solusi Lelang - (MSL)
+#### 2. Mitra Solusi Lelang - (MSL)
