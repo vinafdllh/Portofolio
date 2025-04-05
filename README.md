@@ -18,9 +18,8 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 - Basic knowledge about software development models (waterfall, agile)
 - Software testing
 - Creating test cases
-- Reporting bugs
-- Creating bug reports
-- Creating documentation
+- Create and reporting bug
+- Creating documentation (Manual book)
 - Experience testing web and application
 - Performing smoke tests
 - Testing UAT
@@ -33,6 +32,10 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 -  Innovative Problem Solving
 ### Samples 🔬
 #### 1. Balai Lelang - Caready
+- <ins>[Manual book](https://drive.google.com/drive/u/0/folders/17IcYEW6eVMdSuj52R5UqdGgMvdtcdKBa)</ins>
 - <ins>[Test cases](https://docs.google.com/spreadsheets/d/1uLWtopqZgNWIMeqo8K7ZnSJit-K4gKnRCexwKtSwDwA/edit?gid=0#gid=0)</ins>
-- Bug report
+- <ins>[Bug report](https://drive.google.com/drive/u/0/folders/17IcYEW6eVMdSuj52R5UqdGgMvdtcdKBa)</ins>
 #### 2. Mitra Solusi Lelang - (MSL)
+- <ins>[Manual book](https://drive.google.com/drive/u/0/folders/1IMfo1NSqnSzdl4XTHH09kpba3pOMmlBl)</ins>
+- <ins>[Test cases](https://docs.google.com/spreadsheets/d/1IXMigucZ6-6sMfz5g4-XvR99NtjiiHSEBMzUjImldHs/edit?gid=0#gid=0)</ins>
+- <ins>[Bug report](https://drive.google.com/drive/u/0/folders/1IMfo1NSqnSzdl4XTHH09kpba3pOMmlBl)</ins>
