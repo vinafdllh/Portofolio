@@ -19,7 +19,7 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 - Software testing
 - Creating test cases
 - Create and reporting bug
-- Creating documentation (Manual book)
+- Creating documentation
 - Experience testing web and application
 - Performing smoke tests
 - Testing UAT
