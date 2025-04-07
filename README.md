@@ -37,5 +37,5 @@ Being a Software Quality Assurance professional at PT Kode Inovasi Teknologi (CO
 - <ins>[Bug report](https://drive.google.com/drive/u/0/folders/17IcYEW6eVMdSuj52R5UqdGgMvdtcdKBa)</ins>
 #### 2. Mitra Solusi Lelang - (MSL)
 - <ins>[Manual book](https://drive.google.com/drive/u/0/folders/1IMfo1NSqnSzdl4XTHH09kpba3pOMmlBl)</ins>
-- <ins>[Test cases](https://docs.google.com/spreadsheets/d/1IXMigucZ6-6sMfz5g4-XvR99NtjiiHSEBMzUjImldHs/edit?gid=0#gid=0)</ins>
+- <ins>[Test cases](https://docs.google.com/spreadsheets/d/1IXMigucZ6-6sMfz5g4-XvR99NtjiiHSEBMzUjImldHs/edit?usp=sharing)</ins>
 - <ins>[Bug report](https://drive.google.com/drive/u/0/folders/1IMfo1NSqnSzdl4XTHH09kpba3pOMmlBl)</ins>
